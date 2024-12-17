@@ -2,7 +2,7 @@
 - I’m interested in PowerShell at the moment
 - I’m currently learning as said Powershell
 - I learned C, C++, some Assembler for the Arm 3 Cortex microcontroller lpc 1438, Python, Kotlin and Android programming and some Java
-- my Goals are: to learn how to build scripts for my everday use and build some Applications for my own personal use via Python 
+- my Goals are to learn JavaScript and JavaFX
 
 <!---
 Eymen39/Eymen39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
